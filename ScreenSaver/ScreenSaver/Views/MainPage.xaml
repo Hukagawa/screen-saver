@@ -8,23 +8,8 @@
     xmlns:properties="clr-namespace:ScreenSaver.Properties"
     mc:Ignorable="d"
     d:DesignHeight="450" d:DesignWidth="800">
-    <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="48" />
-            <RowDefinition Height="*" />
-        </Grid.RowDefinitions>
-        <TextBlock
-            Style="{StaticResource PageTitleStyle}"
-            Margin="{StaticResource MediumLeftMargin}"
-            Text="{x:Static properties:Resources.MainPageTitle}" />
-        <Grid
-            Grid.Row="1"
-            Margin="{StaticResource MediumLeftRightMargin}"
-            Background="{DynamicResource MahApps.Brushes.Gray10}">
-            <!--
-            The Mahapps Gray10 color represents where you should place your content.
-            Place your content here.
-            -->
-        </Grid>
+    <Grid Background="#FF101010">
+        <TextBlock x:Name="tbTime" HorizontalAlignment="Center" Text="00:00:00" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="150" Foreground="#FF767676"/>
+        <TextBlock x:Name="tbDate" HorizontalAlignment="Center" Text="2020/01/01" TextWrapping="Wrap" VerticalAlignment="Top" Margin="0,90,0,0" FontSize="24" Foreground="#FF767676"/>
     </Grid>
 </Page>

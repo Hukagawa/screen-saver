@@ -3,7 +3,6 @@ D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver\obj\Debug\netcoreapp3.1\Styles\T
 D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver\obj\Debug\netcoreapp3.1\Styles\_FontSizes.baml
 D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver\obj\Debug\netcoreapp3.1\Styles\_Thickness.baml
 D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver\obj\Debug\netcoreapp3.1\App.baml
-D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver\obj\Debug\netcoreapp3.1\Views\BlankPage.g.cs
 D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver\obj\Debug\netcoreapp3.1\Views\MainPage.g.cs
 D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver\obj\Debug\netcoreapp3.1\App.g.cs
 D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver\obj\Debug\netcoreapp3.1\ScreenSaver_MarkupCompile.cache
@@ -48,7 +47,6 @@ D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver\bin\Debug\netcoreapp3.1\ScreenSa
 D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver\bin\Debug\netcoreapp3.1\ScreenSaver.Core.pdb
 D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver\obj\Debug\netcoreapp3.1\Styles\MetroWindow.baml
 D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver\obj\Debug\netcoreapp3.1\Views\ShellWindow.g.cs
-D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver\obj\Debug\netcoreapp3.1\Views\BlankPage.baml
 D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver\obj\Debug\netcoreapp3.1\Views\MainPage.baml
 D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver\obj\Debug\netcoreapp3.1\Views\ShellWindow.baml
 D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver\obj\Debug\netcoreapp3.1\ScreenSaver.g.resources

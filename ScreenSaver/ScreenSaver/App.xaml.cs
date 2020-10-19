@@ -65,7 +65,6 @@ namespace ScreenSaver
 
             services.AddTransient<MainPage>();
 
-            services.AddTransient<BlankPage>();
 
             // Configuration
             services.Configure<AppConfig>(context.Configuration.GetSection(nameof(AppConfig)));
