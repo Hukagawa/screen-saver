@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScreenSaver", "ScreenSaver\ScreenSaver.csproj", "{38AE6E8A-DB76-418E-8944-E9DA26393296}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScreenSaver.Core", "ScreenSaver.Core\ScreenSaver.Core.csproj", "{32A6DE24-4303-4634-BBF9-DB0BD97F5F31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38AE6E8A-DB76-418E-8944-E9DA26393296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38AE6E8A-DB76-418E-8944-E9DA26393296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38AE6E8A-DB76-418E-8944-E9DA26393296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38AE6E8A-DB76-418E-8944-E9DA26393296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32A6DE24-4303-4634-BBF9-DB0BD97F5F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A6DE24-4303-4634-BBF9-DB0BD97F5F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A6DE24-4303-4634-BBF9-DB0BD97F5F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A6DE24-4303-4634-BBF9-DB0BD97F5F31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D62F4CD4-C775-4D1F-85BB-F846F61DCE16}
+	EndGlobalSection
+EndGlobal
