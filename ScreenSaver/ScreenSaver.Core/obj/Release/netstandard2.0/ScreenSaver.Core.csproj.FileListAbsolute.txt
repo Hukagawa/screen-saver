@@ -1,0 +1,9 @@
+D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver.Core\bin\Release\netstandard2.0\ScreenSaver.Core.deps.json
+D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver.Core\bin\Release\netstandard2.0\ScreenSaver.Core.dll
+D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver.Core\bin\Release\netstandard2.0\ScreenSaver.Core.pdb
+D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver.Core\obj\Release\netstandard2.0\ScreenSaver.Core.csprojAssemblyReference.cache
+D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver.Core\obj\Release\netstandard2.0\ScreenSaver.Core.AssemblyInfoInputs.cache
+D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver.Core\obj\Release\netstandard2.0\ScreenSaver.Core.AssemblyInfo.cs
+D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver.Core\obj\Release\netstandard2.0\ScreenSaver.Core.csproj.CoreCompileInputs.cache
+D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver.Core\obj\Release\netstandard2.0\ScreenSaver.Core.dll
+D:\Projects\ScreenSaver\ScreenSaver\ScreenSaver.Core\obj\Release\netstandard2.0\ScreenSaver.Core.pdb
